@@ -3,7 +3,9 @@ class Question1
 {
 	public static void main(String args[])
 	{
+
 		int array[]={2500,7800,43,58,90,87,5,98};
+		int array[]={2500,7811,43,58,90,87,5,98};
 		System.out.print("The even element array:");
 		for(int i=0;i<array.length;i++)
 		{
